@@ -4,8 +4,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class MoreThanOneOccurence {
-
-
     public Map<String, Boolean> occursMoreThanOnce(String[] stringArray) {
         Map<String, Boolean> map = new HashMap<>();
         for (int i = 0; i < stringArray.length; i++) {

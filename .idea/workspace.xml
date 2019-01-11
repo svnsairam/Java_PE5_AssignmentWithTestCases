@@ -7,7 +7,21 @@
       <change beforePath="$PROJECT_DIR$/../BoilerPlate4/DataMungerStep4_Boilerplate" beforeDir="false" afterPath="$PROJECT_DIR$/../BoilerPlate4/DataMungerStep4_Boilerplate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BoilerPlate5/DataMungerStep5_Boilerplate" beforeDir="false" afterPath="$PROJECT_DIR$/../BoilerPlate5/DataMungerStep5_Boilerplate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BoilerPlateStep2/DataMungerStep2_Boilerplate" beforeDir="false" afterPath="$PROJECT_DIR$/../BoilerPlateStep2/DataMungerStep2_Boilerplate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPE1" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPE1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaPE1WithTestCases" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPE1WithTestCases" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPE2_TestCases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPE2_TestCases/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/java/com/company/EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/java/com/company/EvenNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/java/com/company/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/java/com/company/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/java/com/company/MemberClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/java/com/company/MemberClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/java/com/company/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/java/com/company/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/java/com/company/PowerOf4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/java/com/company/PowerOf4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/java/com/company/StudentsAndGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/java/com/company/StudentsAndGrades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/test/com/company/EvenNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/test/com/company/EvenNumberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/test/com/company/FactorialTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/test/com/company/FactorialTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/test/com/company/MemberVariableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/test/com/company/MemberVariableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/test/com/company/PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/test/com/company/PalindromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/test/com/company/PowerOf4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/test/com/company/PowerOf4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/test/com/company/StudentsAndGradesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPE2_TestCases/src/main/test/com/company/StudentsAndGradesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SwitchBulb/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SwitchBulb/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SwitchBulb/src/main/java/com/company/Bulb.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SwitchBulb/src/main/java/com/company/Bulb.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SwitchBulb/src/main/java/com/company/ChangeState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SwitchBulb/src/main/java/com/company/ChangeState.java" afterDir="false" />
@@ -15,19 +29,10 @@
       <change beforePath="$PROJECT_DIR$/../SwitchBulb/src/main/java/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SwitchBulb/src/main/java/com/company/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SwitchBulb/src/main/java/com/company/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SwitchBulb/src/main/java/com/company/Switch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_PE3" beforeDir="false" afterPath="$PROJECT_DIR$/../java_PE3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_PE4" beforeDir="false" afterPath="$PROJECT_DIR$/../java_PE4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/GetSetValues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/GetSetValues.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/company/MoreThanOneOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/MoreThanOneOccurence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/company/SortNamesOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/SortNamesOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/UpdateArrayAndReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/UpdateArrayAndReplace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/CountOccurencesOfStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/company/CountOccurencesOfStringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/GetSetValuesCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/company/GetSetValuesCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/ManifestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/company/ManifestTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/MoreThanOneOccurenceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/company/MoreThanOneOccurenceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/SortNamesOfArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/company/SortNamesOfArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/UpdateArrayAndReplaceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/com/company/UpdateArrayAndReplaceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../junit_Folder_by_Ximantha" beforeDir="false" afterPath="$PROJECT_DIR$/../junit_Folder_by_Ximantha" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -38,21 +43,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Student.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/CountOccurencesOfString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="39" column="6" selection-end-line="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/UpdateArrayAndReplace.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            <state relative-caret-position="180">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,46 +57,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/CountOccurencesOfStringTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/GetSetValues.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
-              <caret line="9" column="17" selection-end-line="37" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/ManifestTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-210">
-              <caret line="27" column="19" selection-end-line="75" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/MoreThanOneOccurenceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="38" selection-end-line="39" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/SortNamesOfArrayTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="37" selection-end-line="74" selection-end-column="1" />
+            <state relative-caret-position="165">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,25 +69,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/UpdateArrayAndReplaceTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/SortNamesOfArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="78" column="1" lean-forward="true" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/GetSetValuesCheck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="9" column="18" selection-end-line="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -135,20 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/MoreThanOneOccurence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/SortNamesOfArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="16" selection-end-line="21" />
+            <state relative-caret-position="90">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -185,8 +118,6 @@
         <option value="$PROJECT_DIR$/src/main/test/com/company/GetSetValuesTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/company/SortArrayListInIncreasingOrderTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/GetSetValues.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/MoreThanOneOccurence.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/SortNamesOfArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/UpdateArrayAndReplace.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/company/CountOccurencesOfStringTest.java" />
@@ -195,6 +126,8 @@
         <option value="$PROJECT_DIR$/src/main/test/com/company/MoreThanOneOccurenceTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/company/SortNamesOfArrayTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/company/UpdateArrayAndReplaceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/MoreThanOneOccurence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/SortNamesOfArray.java" />
       </list>
     </option>
   </component>
@@ -212,8 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,15 +183,6 @@
               <item name="java_PE5" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="Student.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="java_PE5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_PE5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -275,6 +197,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,7 +206,7 @@
     <property name="Repository.Attach.Annotations" value="true" />
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547187861341" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547206128327" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -454,9 +378,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30407023" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30885875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -488,77 +411,17 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/main/test/com/company/SortArrayListInIncreasingOrderTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/test/com/company/GetSetValuesTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/CountOccurencesOfString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="56" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/GetSetValues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/MoreThanOneOccurence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/SortNamesOfArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="16" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
+        <state relative-caret-position="375">
           <caret line="39" column="6" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/UpdateArrayAndReplace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/company/CountOccurencesOfStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="9" column="17" selection-end-line="37" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/GetSetValuesCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="9" column="18" selection-end-line="40" />
+          <caret line="9" column="17" selection-end-line="37" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -567,7 +430,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/company/ManifestTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
+        <state relative-caret-position="225">
           <caret line="27" column="19" selection-end-line="75" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -587,8 +450,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/company/SortNamesOfArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="420">
           <caret line="37" selection-end-line="74" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/GetSetValuesCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="18" selection-end-line="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -597,11 +470,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/com/company/UpdateArrayAndReplaceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="78" column="1" lean-forward="true" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
+        <state relative-caret-position="1170">
+          <caret line="78" column="1" selection-start-line="78" selection-start-column="1" selection-end-line="78" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/UpdateArrayAndReplace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/CountOccurencesOfString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/GetSetValues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/MoreThanOneOccurence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/SortNamesOfArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
