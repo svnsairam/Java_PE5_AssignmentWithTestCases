@@ -1,4 +1,4 @@
-package com.company;
+package com.stackroute.javaPe5;
 
 import org.junit.Test;
 
@@ -8,7 +8,6 @@ import java.util.Map;
 import static org.junit.Assert.*;
 
 public class CountOccurencesOfStringTest {
-
     @Test
     public void numberOfOccerencesCountsSuccess() {
         CountOccurencesOfString countOccurencesOfString = new CountOccurencesOfString();

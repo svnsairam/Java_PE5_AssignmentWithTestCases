@@ -1,11 +1,10 @@
-package com.company;
+package com.stackroute.javaPe5;
 
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
 public class UpdateArrayAndReplaceTest {
-
     UpdateArrayAndReplace updateArrayAndReplace;
 
     @org.junit.Before

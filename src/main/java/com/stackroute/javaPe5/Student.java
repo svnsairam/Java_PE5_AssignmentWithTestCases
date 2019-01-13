@@ -1,4 +1,4 @@
-package com.company;
+package com.stackroute.javaPe5;
 
 import java.util.*;
 
@@ -38,7 +38,6 @@ public class Student {
 }
 
 class StudentSort implements Comparator<Student> {
-
     @Override
     public int compare(Student o1, Student o2) {
         if (o1.getAge() != o2.getAge()) {
@@ -53,7 +52,6 @@ class StudentSort implements Comparator<Student> {
 }
 
 class Manifest {
-
     public ArrayList<Student> sortStudentsBasedOnAge(ArrayList<Student> students) {
         StudentSort sortedStudent = new StudentSort();
         Collections.sort(students, sortedStudent);

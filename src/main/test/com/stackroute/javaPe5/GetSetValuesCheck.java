@@ -1,4 +1,4 @@
-package com.company;
+package com.stackroute.javaPe5;
 
 import org.junit.Test;
 
@@ -8,7 +8,6 @@ import java.util.Map;
 import static org.junit.Assert.*;
 
 public class GetSetValuesCheck {
-
     @Test
     public void interchangeValuesSuccess() {
         GetSetValues getSetValues = new GetSetValues();
@@ -22,7 +21,6 @@ public class GetSetValuesCheck {
 
         assertTrue(expectedMapValues.equals(actualMapValues));
     }
-
 
     @Test
     public void interchangeValuesFailure() {

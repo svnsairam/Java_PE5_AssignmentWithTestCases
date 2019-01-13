@@ -1,4 +1,4 @@
-package com.company;
+package com.stackroute.javaPe5;
 
 import org.junit.Test;
 
@@ -22,7 +22,6 @@ public class MoreThanOneOccurenceTest {
         assertTrue("checkFrequency is failing", expectedMap.equals(resultingMap));
     }
 
-
     @Test
     public void checkOccurencesFailure() {
         MoreThanOneOccurence frequencyMap = new MoreThanOneOccurence();
@@ -36,5 +35,4 @@ public class MoreThanOneOccurenceTest {
 
         assertFalse("checkOccurencesFailure test ", expectedMap.equals(resultingMap));
     }
-
 }

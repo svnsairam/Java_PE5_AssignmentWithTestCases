@@ -1,4 +1,4 @@
-package com.company;
+package com.stackroute.javaPe5;
 
 import java.util.HashMap;
 import java.util.Map;

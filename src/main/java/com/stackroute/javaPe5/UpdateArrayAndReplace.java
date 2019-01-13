@@ -1,7 +1,4 @@
-package com.company;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.stackroute.javaPe5;
 
 public class UpdateArrayAndReplace {
     public String[] replaceArrayElement(String[] arrayString, String replaceElement, String replaceString) {
