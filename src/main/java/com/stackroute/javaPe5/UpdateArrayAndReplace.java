@@ -1,3 +1,9 @@
+/*
+Write a Java program to update specific array element by given element and empty the array list .
+Input: [Apple, Grape, Melon, Berry]
+Output: [Kiwi, Grape, Mango, Berry]
+Array list after removing all elements []
+ */
 package com.stackroute.javaPe5;
 
 public class UpdateArrayAndReplace {
