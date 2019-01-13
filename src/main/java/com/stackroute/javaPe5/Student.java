@@ -66,8 +66,6 @@ class Manifest {
     public ArrayList<Student> sortStudentsBasedOnAge(ArrayList<Student> students) {
         StudentSort sortedStudent = new StudentSort();
         Collections.sort(students, sortedStudent);
-
         return students;
-
     }
 }

@@ -12,6 +12,8 @@ import java.util.Map;
 public class MoreThanOneOccurence {
     public Map<String, Boolean> occursMoreThanOnce(String[] stringArray) {
         Map<String, Boolean> map = new HashMap<>();
+        // store the strings in map and for first occurence of string the value is false and
+        // next time it will be true.
         for (int i = 0; i < stringArray.length; i++) {
             if (map.containsKey(stringArray[i]))
                 map.put(stringArray[i], true);

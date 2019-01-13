@@ -10,10 +10,9 @@ public class UpdateArrayAndReplace {
     public String[] replaceArrayElement(String[] arrayString, String replaceElement, String replaceString) {
         if (replaceString == null)
             replaceString = "";
-
         if (arrayString.length == 0)
             return arrayString;
-
+        // finding the correct matching word and then replacing it the original string with replaceElement
         for (int i = 0; i < arrayString.length; i++) {
             if (arrayString[i].equals(replaceElement)) {
                 arrayString[i] = replaceString;

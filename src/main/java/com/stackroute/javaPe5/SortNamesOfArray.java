@@ -15,6 +15,7 @@ public class SortNamesOfArray {
         ArrayList<String> resultingArrayList = new ArrayList<>();
         if (inputString == null)
             return null;
+        // Using the collections.sort method to sord the strings which are added to ArrayList
         for (int i = 0; i < inputString.length; i++) {
             resultingArrayList.add(inputString[i]);
         }

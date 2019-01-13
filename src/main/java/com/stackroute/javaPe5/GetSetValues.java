@@ -22,6 +22,7 @@ import java.util.Map;
 
 public class GetSetValues {
     public static Map<String, String> interchangeValues(Map<String, String> inputMap) {
+        // store the value of val1 key and put it in value of key val2
         String val1 = inputMap.get("val1");
         if (val1 != null || val1 != "") {
             inputMap.put("val1", " ");
